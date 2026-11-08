@@ -14,7 +14,8 @@
     "build": "node node_modules/vite/bin/vite.js build --config vite.local.config.ts",
     "build:local": "npm run build",
     "check": "node node_modules/typescript/bin/tsc --noEmit",
-    "preview": "node node_modules/vite/bin/vite.js preview --config vite.local.config.ts --host 127.0.0.1 --port 5173"
+    "preview": "node node_modules/vite/bin/vite.js preview --config vite.local.config.ts --host 127.0.0.1 --port 5173",
+    "build:vercel": "node scripts/sync-content.mjs --public && node node_modules/vite/bin/vite.js build --config vite.local.config.ts"
   },
   "dependencies": {
     "react": "19.2.6",

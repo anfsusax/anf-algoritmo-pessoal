@@ -49,3 +49,22 @@ A execução local usa React e Vite com `vite.local.config.ts`. `npm run dev` ob
 ## Verificação em 08/11/2026
 
 Checagem de tipos e build aprovados. Navegação para Meu tempo, limite de 24 horas, percentuais, busca sem acentos e diálogo de reflexão conferidos no navegador. Valores temporários do teste foram restaurados para zero. Página inicial conferida visualmente e captura em `preview-inicio.png`. Fluxos de importação/exportação e aparência em telas móveis ainda não foram exercitados nesta revisão.
+
+## Publicar na Vercel
+
+Na importação do repositório, selecione **Root Directory: site**. A configuração em `site/vercel.json` usa:
+
+| Campo | Valor |
+| --- | --- |
+| Framework Preset | Vite |
+| Install Command | npm ci |
+| Build Command | npm run build:vercel |
+| Output Directory | dist/local |
+
+`build:vercel` compila usando somente os arquivos versionados de `content/public/`: propósito e referência dos 69 frutos. Assim, o build não depende de `_ia/` nem inclui diário, perfil detalhado, tarefas ou decisões privados na biblioteca. Em builds com `VERCEL=1`, a sincronização também seleciona essas fontes. Os textos editoriais da interface continuam sendo os textos existentes do site e devem ser revisados antes de publicar.
+
+O funcionamento local continua lendo a memória completa de `_ia/` com `npm run sync` ou `npm run dev`. Após testar o build de publicação localmente, execute `npm run sync` para voltar ao conteúdo local da biblioteca. O build compilado em `dist/local/` permanece com o conteúdo de publicação até uma nova compilação.
+
+As fontes públicas são mantidas separadamente: alterações na memória privada não as publicam automaticamente. Atualize `content/public/` deliberadamente ao mudar o conteúdo da versão hospedada. Caderno e horários continuam específicos do navegador e da origem; anotações do endereço local não aparecem automaticamente no domínio Vercel.
+
+A configuração foi preparada e o build testado localmente. A criação do projeto e o deploy na Vercel são etapas separadas. Envie os arquivos alterados ao GitHub antes de iniciar a compilação remota.
