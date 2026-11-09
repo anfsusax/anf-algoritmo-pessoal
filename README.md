@@ -83,7 +83,7 @@ O site reúne seis espaços:
 | --- | --- |
 | **Início** | Relembrar meu propósito e encontrar uma direção para o dia. |
 | **Minha essência** | Guardar quem desejo ser e os valores que orientam minhas escolhas. |
-| **Os frutos** | Explorar os 69 frutos, pesquisar por nome e encontrar sugestões de prática. |
+| **Os frutos** | Explorar os 69 frutos, ler passagens comentadas, consultar a concordância bíblica e encontrar sugestões de prática. |
 | **Caminhada** | Escrever reflexões, revisitar experiências e guardar aprendizados. |
 | **Meu tempo** | Distribuir as 24 horas entre vida espiritual, cuidado pessoal, família e trabalho. |
 | **Biblioteca** | Consultar os registros que dão continuidade ao projeto. |

@@ -1,0 +1,1614 @@
+[
+  {
+    "id": 1,
+    "name": "Respeito",
+    "definition": "Reconhecer a dignidade das pessoas e tratar cada uma com honra, sem favoritismo.",
+    "practice": "Ouvir e responder com consideração a alguém de quem você discorda.",
+    "terms": [
+      "honra",
+      "honrar",
+      "respeito",
+      "honrai",
+      "consideração"
+    ],
+    "references": [
+      "IPed2:17",
+      "Rom12:10",
+      "Eph6:1-3",
+      "Lev19:32",
+      "Thi2:1-9",
+      "Rom13:7",
+      "IPed3:15-16",
+      "IPhi2:3-4"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bondade",
+    "definition": "A bondade de Deus sustenta a vida e chama seus filhos a fazer o bem com constância.",
+    "practice": "Fazer um bem concreto sem esperar uma vantagem em troca.",
+    "terms": [
+      "bondade",
+      "benignidade",
+      "beneficência",
+      "bom",
+      "boa",
+      "bons",
+      "boas",
+      "fazer o bem"
+    ],
+    "references": [
+      "Psa23:6",
+      "Psa34:8",
+      "Psa100:5",
+      "Exo34:6-7",
+      "Psa31:19",
+      "Psa52:1",
+      "Psa65:4",
+      "Psa86:5",
+      "Psa86:15",
+      "Psa107:1",
+      "Psa119:68",
+      "Psa145:9",
+      "Nah1:7",
+      "Rom2:4",
+      "Rom11:22",
+      "Gal5:22",
+      "Eph4:32",
+      "Tito3:4-7",
+      "Luc6:35",
+      "Rom12:21",
+      "Gal6:9-10",
+      "Miq6:8",
+      "IIIJoao1:11",
+      "Act10:38"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Atenção",
+    "definition": "Perceber as necessidades de quem está perto e guardar o coração para aquilo que merece cuidado.",
+    "practice": "Notar uma necessidade que costuma passar despercebida.",
+    "terms": [
+      "atenta",
+      "atende",
+      "considera",
+      "vigia",
+      "cuidado"
+    ],
+    "references": [
+      "IPhi2:4",
+      "Pro27:23",
+      "Heb10:24",
+      "Luc10:33-35",
+      "Mar10:46-52",
+      "Pro4:20-23",
+      "Thi1:25",
+      "Rom12:15"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Escuta",
+    "definition": "Ouvir com disposição para compreender antes de falar ou julgar.",
+    "practice": "Dar a alguém uma conversa sem interrupções e sem celular.",
+    "terms": [
+      "ouvir",
+      "ouvi",
+      "ouve",
+      "escuta",
+      "ouvidos"
+    ],
+    "references": [
+      "Thi1:19",
+      "Pro18:13",
+      "Pro18:15",
+      "Pro20:5",
+      "Pro19:20",
+      "Luc10:38-42",
+      "ISam3:9-10",
+      "Mar4:24"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paciência",
+    "definition": "Esperar e perseverar sem tratar o outro com dureza, confiando no tempo de Deus.",
+    "practice": "Fazer uma pausa antes de responder a uma contrariedade.",
+    "terms": [
+      "pacien",
+      "longanim",
+      "espera",
+      "tardio em ir"
+    ],
+    "references": [
+      "Thi5:7-11",
+      "Rom12:12",
+      "Rom5:3-5",
+      "Psa37:7-9",
+      "ICor13:4",
+      "Col3:12-13",
+      "Eph4:2",
+      "IIPed3:9",
+      "Pro14:29",
+      "Ecc7:8-9"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Encorajamento",
+    "definition": "Fortalecer a esperança e ajudar alguém a continuar no bem.",
+    "practice": "Dizer a uma pessoa, de modo específico, algo que reconhece nela.",
+    "terms": [
+      "anima",
+      "exorta",
+      "fortalece",
+      "consola",
+      "edifica"
+    ],
+    "references": [
+      "IThe5:11",
+      "Heb3:13",
+      "Heb10:24-25",
+      "Deu31:6-8",
+      "Jos1:9",
+      "Act11:23-24",
+      "Act15:32",
+      "Rom15:4-5"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gratidão",
+    "definition": "Reconhecer o cuidado de Deus e o bem recebido, mesmo em uma vida com dificuldades.",
+    "practice": "Registrar três motivos reais de gratidão e agradecer a alguém.",
+    "terms": [
+      "gratidao",
+      "gracas",
+      "agradece",
+      "louva"
+    ],
+    "references": [
+      "IThe5:18",
+      "Col3:15-17",
+      "Psa103:1-5",
+      "Psa100:4",
+      "Luc17:11-19",
+      "Eph5:20",
+      "IPhi4:6-7",
+      "Heb13:15",
+      "Col2:6-7",
+      "Psa107:8-9"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Honestidade",
+    "definition": "Viver com verdade e integridade na fala, nos negócios e nas decisões.",
+    "practice": "Corrigir uma informação ou uma pequena vantagem obtida de maneira injusta.",
+    "terms": [
+      "mentira",
+      "integridade",
+      "balança",
+      "honestidade",
+      "falso testemunho",
+      "verdade"
+    ],
+    "references": [
+      "Eph4:25",
+      "Pro12:22",
+      "Lev19:11",
+      "Pro11:1",
+      "IICor8:21",
+      "Col3:9",
+      "Luc16:10",
+      "Psa15:1-5",
+      "Pro10:9",
+      "Zac8:16-17"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Humildade",
+    "definition": "Reconhecer os próprios limites e servir sem se considerar superior aos outros.",
+    "practice": "Reconhecer um erro sem transferir a culpa.",
+    "terms": [
+      "humild",
+      "humilha",
+      "soberb",
+      "pequen"
+    ],
+    "references": [
+      "IPhi2:3-8",
+      "Thi4:6-10",
+      "IPed5:5-6",
+      "Miq6:8",
+      "Pro11:2",
+      "Luc18:9-14",
+      "Mat23:11-12",
+      "Rom12:3",
+      "Pro22:4"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Perdão",
+    "definition": "Renunciar à vingança e tratar a ofensa à luz da graça, com verdade e responsabilidade.",
+    "practice": "Levar uma ofensa a Deus e escolher não alimentar uma retaliação.",
+    "terms": [
+      "perdoa",
+      "perdao",
+      "remissao",
+      "ofens"
+    ],
+    "references": [
+      "Eph4:32",
+      "Col3:13",
+      "Mat6:12-15",
+      "Mat18:21-35",
+      "Luc17:3-4",
+      "Mar11:25",
+      "Psa103:10-12",
+      "IJoao1:9",
+      "IICor2:7-8"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Consolação",
+    "definition": "Acolher a dor e compartilhar o consolo recebido de Deus.",
+    "practice": "Estar presente junto de alguém que sofre sem tentar explicar tudo.",
+    "terms": [
+      "consola",
+      "conforta",
+      "lagrima",
+      "pranto"
+    ],
+    "references": [
+      "IICor1:3-7",
+      "Mat5:4",
+      "Isa40:1",
+      "Isa66:13",
+      "Psa34:18",
+      "Psa23:4",
+      "IThe4:13-18",
+      "Rom12:15",
+      "Apo21:4"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Compaixão",
+    "definition": "Deixar-se tocar pelo sofrimento do outro e agir para aliviar sua dor.",
+    "practice": "Transformar uma necessidade percebida em uma ajuda concreta.",
+    "terms": [
+      "compaix",
+      "compade",
+      "entranhas",
+      "misericord"
+    ],
+    "references": [
+      "Mat9:36",
+      "Mat14:14",
+      "Mar1:40-42",
+      "Luc7:11-15",
+      "Luc10:30-37",
+      "Col3:12",
+      "Psa103:13",
+      "IJoao3:17-18"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Misericórdia",
+    "definition": "Tratar quem sofre ou falha com cuidado, sem abandonar a justiça e a verdade.",
+    "practice": "Oferecer ajuda e dignidade a uma pessoa que costuma ser julgada.",
+    "terms": [
+      "misericord",
+      "compass",
+      "compade",
+      "clement"
+    ],
+    "references": [
+      "Exo34:6-7",
+      "Lam3:22-23",
+      "Miq6:8",
+      "Mat5:7",
+      "Luc6:36",
+      "Thi2:13",
+      "Heb4:16",
+      "Tito3:5",
+      "Psa103:8-14",
+      "Ose6:6",
+      "Mat9:13"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Generosidade",
+    "definition": "Compartilhar recursos, tempo e atenção com liberdade e cuidado.",
+    "practice": "Separar algo útil para suprir uma necessidade real.",
+    "terms": [
+      "generos",
+      "liberal",
+      "reparte",
+      "dádiva",
+      "repartir"
+    ],
+    "references": [
+      "IICor9:6-11",
+      "Pro11:24-25",
+      "Act20:35",
+      "ITim6:17-19",
+      "Deu15:7-11",
+      "Luc6:38",
+      "Rom12:8",
+      "Psa112:5",
+      "Heb13:16",
+      "Pro19:17"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Hospitalidade",
+    "definition": "Abrir espaço para acolher pessoas com respeito e sem murmuração.",
+    "practice": "Acolher alguém de modo simples, sem exigir uma recepção perfeita.",
+    "terms": [
+      "hospital",
+      "hospeda",
+      "acolhe",
+      "estrangeir"
+    ],
+    "references": [
+      "Rom12:13",
+      "Heb13:2",
+      "IPed4:9",
+      "Gen18:1-8",
+      "Luc14:12-14",
+      "IIIJoao1:5-8",
+      "Mat25:35",
+      "ITim3:2"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Solidariedade",
+    "definition": "Participar das necessidades e cargas dos outros, em comunhão.",
+    "practice": "Perguntar a alguém qual ajuda prática tornaria a semana mais leve.",
+    "terms": [
+      "cargas",
+      "repart",
+      "necessidade",
+      "uns aos outros",
+      "comunhão"
+    ],
+    "references": [
+      "Gal6:2",
+      "Rom12:15",
+      "ICor12:25-27",
+      "Act2:44-45",
+      "Act4:32-35",
+      "Heb13:16",
+      "Rom15:1-3",
+      "IJoao3:17-18"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Reconciliação",
+    "definition": "Buscar a restauração de relações com paz, verdade, arrependimento e responsabilidade.",
+    "practice": "Dar um primeiro passo possível para uma conversa honesta e respeitosa.",
+    "terms": [
+      "reconcil",
+      "pacifica",
+      "paz",
+      "concord"
+    ],
+    "references": [
+      "IICor5:18-20",
+      "Mat5:23-24",
+      "Rom12:18",
+      "Eph2:14-18",
+      "Col1:19-22",
+      "Mat18:15-17",
+      "Rom5:10-11",
+      "Mat5:9"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Justiça",
+    "definition": "Agir com retidão e defender o direito de quem é tratado de modo injusto.",
+    "practice": "Corrigir um tratamento desigual ou apoiar quem não consegue se defender.",
+    "terms": [
+      "justica",
+      "justo",
+      "juizo",
+      "direito",
+      "opprim"
+    ],
+    "references": [
+      "Miq6:8",
+      "Isa1:17",
+      "Amos5:24",
+      "Pro21:3",
+      "Deu16:19-20",
+      "Psa82:3-4",
+      "Jer22:3",
+      "Mat23:23",
+      "Thi2:1-9",
+      "Zac7:9-10"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Discrição",
+    "definition": "Usar as palavras com prudência e guardar confidências com responsabilidade.",
+    "practice": "Preservar uma confidência e evitar repassar uma informação desnecessária.",
+    "terms": [
+      "segredo",
+      "prudenc",
+      "discret",
+      "calumn",
+      "lingua"
+    ],
+    "references": [
+      "Pro11:13",
+      "Pro17:9",
+      "Pro10:19",
+      "Pro20:19",
+      "Pro25:9-10",
+      "Eph4:29",
+      "Thi1:26",
+      "Pro12:23",
+      "Pro15:1"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fazer o bem",
+    "definition": "Praticar o que beneficia o próximo e perseverar no bem mesmo sem reconhecimento.",
+    "practice": "Escolher uma ação útil que esteja ao seu alcance hoje.",
+    "terms": [
+      "fazer o bem",
+      "fazei bem",
+      "boas obras",
+      "bem faz"
+    ],
+    "references": [
+      "Gal6:9-10",
+      "Heb13:16",
+      "Thi4:17",
+      "Mat5:16",
+      "Act10:38",
+      "Tito3:8",
+      "Psa37:3",
+      "Rom12:21",
+      "IPed2:15",
+      "IIIJoao1:11"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Ensinar",
+    "definition": "Compartilhar o que é verdadeiro e útil com paciência, exemplo e responsabilidade.",
+    "practice": "Explicar algo importante respeitando o ritmo de quem aprende.",
+    "terms": [
+      "ensina",
+      "instrue",
+      "instrui",
+      "doutrina"
+    ],
+    "references": [
+      "Deu6:6-7",
+      "Pro22:6",
+      "IITim2:2",
+      "Tito2:3-5",
+      "Col3:16",
+      "Mat28:19-20",
+      "Esd7:10",
+      "Pro9:9",
+      "Thi3:1"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Orientar",
+    "definition": "Ajudar alguém a discernir um caminho, sem controlar suas decisões.",
+    "practice": "Oferecer uma orientação clara e ouvir antes de aconselhar.",
+    "terms": [
+      "conselho",
+      "conselhe",
+      "guiará",
+      "dirigirá",
+      "vereda"
+    ],
+    "references": [
+      "Pro11:14",
+      "Pro15:22",
+      "Psa32:8",
+      "Pro3:5-6",
+      "Isa30:21",
+      "Act18:24-26",
+      "Rom15:14",
+      "IITim3:16-17"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Visitar enfermos",
+    "definition": "Expressar presença e cuidado a quem enfrenta doença ou fragilidade.",
+    "practice": "Oferecer uma visita ou contato, respeitando o desejo e os limites da pessoa.",
+    "terms": [
+      "enfermo",
+      "doente",
+      "enfermidade",
+      "enfermidades"
+    ],
+    "references": [
+      "Mat25:36",
+      "Thi5:14-16",
+      "Act9:36-41",
+      "Mar2:1-12",
+      "Luc10:33-35",
+      "IITim1:16-18",
+      "IICor1:3-4"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Visitar presos",
+    "definition": "Lembrar de quem está privado de liberdade e reconhecer sua dignidade.",
+    "practice": "Buscar uma forma responsável de apoiar pessoas presas ou seus familiares.",
+    "terms": [
+      "preso",
+      "priso",
+      "cadeia",
+      "cativeiro"
+    ],
+    "references": [
+      "Mat25:36",
+      "Heb13:3",
+      "IITim1:16-17",
+      "Act16:25-34",
+      "Mat25:39-40",
+      "Col4:18",
+      "IPhi4:14"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Alimentar famintos",
+    "definition": "Repartir alimento e enfrentar a necessidade concreta de quem tem fome.",
+    "practice": "Contribuir com alimento adequado para uma pessoa ou iniciativa confiável.",
+    "terms": [
+      "fome",
+      "faminto",
+      "pao",
+      "mantimento"
+    ],
+    "references": [
+      "Isa58:7-10",
+      "Mat25:35",
+      "Pro22:9",
+      "Thi2:15-17",
+      "Mar6:34-44",
+      "Rom12:20",
+      "Deu15:11",
+      "Psa146:7",
+      "Luc3:11"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Vestir necessitados",
+    "definition": "Cuidar da dignidade de quem não tem o necessário para se vestir.",
+    "practice": "Separar roupas limpas, úteis e em bom estado para uma necessidade concreta.",
+    "terms": [
+      "vestir",
+      "vestistes",
+      "vestido",
+      "nu",
+      "nús",
+      "roupa",
+      "túnica"
+    ],
+    "references": [
+      "Mat25:36",
+      "Luc3:11",
+      "Thi2:15-16",
+      "Isa58:7",
+      "Job31:19-20",
+      "Act9:39",
+      "Eze18:7"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cuidar dos idosos",
+    "definition": "Honrar e amparar pessoas idosas com presença e responsabilidade.",
+    "practice": "Escutar uma pessoa idosa e identificar uma ajuda que ela deseja receber.",
+    "terms": [
+      "velho",
+      "velhice",
+      "cãs",
+      "anci",
+      "idoso"
+    ],
+    "references": [
+      "Lev19:32",
+      "ITim5:4",
+      "ITim5:8",
+      "Pro23:22",
+      "Psa71:9",
+      "Isa46:4",
+      "Ruth4:15",
+      "Joao19:26-27"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Amparar viúvas e órfãos",
+    "definition": "Cuidar de pessoas em vulnerabilidade familiar e defender seus direitos.",
+    "practice": "Conhecer uma necessidade real de uma família que perdeu seu apoio.",
+    "terms": [
+      "viuva",
+      "orph",
+      "orf"
+    ],
+    "references": [
+      "Thi1:27",
+      "Deu10:18",
+      "Deu24:17-21",
+      "Psa68:5",
+      "Isa1:17",
+      "ITim5:3-8",
+      "Act6:1-6",
+      "Zac7:10",
+      "Exo22:22-24"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Acolher estrangeiros",
+    "definition": "Receber quem vem de fora com dignidade e sem exploração.",
+    "practice": "Ajudar alguém recém-chegado a compreender uma necessidade prática.",
+    "terms": [
+      "estrangeir",
+      "peregrin",
+      "forasteir"
+    ],
+    "references": [
+      "Lev19:33-34",
+      "Deu10:18-19",
+      "Mat25:35",
+      "Exo22:21",
+      "Heb13:2",
+      "Deu24:17-18",
+      "Ruth2:8-12",
+      "Rom15:7"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Servir sem reconhecimento",
+    "definition": "Servir diante de Deus sem transformar a ajuda em busca de prestígio.",
+    "practice": "Fazer um serviço necessário sem procurar tornar a ação conhecida.",
+    "terms": [
+      "em secreto",
+      "galardão",
+      "servo",
+      "recompensa",
+      "servir"
+    ],
+    "references": [
+      "Mat6:1-4",
+      "Col3:23-24",
+      "Luc17:7-10",
+      "Mar10:43-45",
+      "Mat23:11",
+      "Heb6:10",
+      "Joao13:12-17"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Testemunhar",
+    "definition": "Dar testemunho de Cristo com palavras verdadeiras e uma vida coerente.",
+    "practice": "Compartilhar uma experiência de fé sem exagerar nem prometer o que não sabe.",
+    "terms": [
+      "testemunh",
+      "testifica",
+      "annuncia",
+      "anuncia"
+    ],
+    "references": [
+      "Act1:8",
+      "IPed3:15-16",
+      "Mat5:16",
+      "Joao15:26-27",
+      "IJoao1:1-3",
+      "Act4:20",
+      "Mar5:19",
+      "IITim1:8"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Evangelizar",
+    "definition": "Anunciar as boas-novas de Jesus com clareza, respeito e amor.",
+    "practice": "Conversar sobre a esperança cristã com alguém disposto a ouvir.",
+    "terms": [
+      "evangelho",
+      "evangeliza",
+      "boas novas",
+      "annuncia"
+    ],
+    "references": [
+      "Mat28:19-20",
+      "Rom10:14-17",
+      "Mar16:15",
+      "Act8:26-35",
+      "ICor9:16",
+      "IITim4:2",
+      "Rom1:16",
+      "Col4:5-6"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ensinar as Escrituras",
+    "definition": "Estudar e explicar o texto bíblico com fidelidade ao seu contexto.",
+    "practice": "Ler uma passagem inteira antes de explicar um versículo.",
+    "terms": [
+      "escriptura",
+      "escritura",
+      "ensina",
+      "palavra de Deus",
+      "livro da lei"
+    ],
+    "references": [
+      "IITim3:14-17",
+      "IITim2:15",
+      "Neh8:8",
+      "Esd7:10",
+      "Act17:11",
+      "Luc24:27",
+      "Col3:16",
+      "Deu6:6-9",
+      "Thi3:1"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Corrigir com amor",
+    "definition": "Abordar um erro com mansidão, verdade e desejo de restauração.",
+    "practice": "Conversar em particular sobre um problema sem humilhar a pessoa.",
+    "terms": [
+      "corrige",
+      "reprehende",
+      "admoesta",
+      "mansidao"
+    ],
+    "references": [
+      "Gal6:1",
+      "Eph4:15",
+      "IITim2:24-26",
+      "Mat18:15",
+      "Pro27:5-6",
+      "Tito3:10",
+      "Col3:16",
+      "IThe5:14"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Interceder",
+    "definition": "Apresentar a Deus as necessidades de outras pessoas com perseverança.",
+    "practice": "Orar por uma pessoa e por uma necessidade específica dela.",
+    "terms": [
+      "interce",
+      "orai",
+      "oracao",
+      "supplica"
+    ],
+    "references": [
+      "ITim2:1-4",
+      "Thi5:16",
+      "Eph6:18",
+      "Col1:9-12",
+      "Rom8:26-27",
+      "Heb7:25",
+      "Gen18:22-33",
+      "Joao17:20-23",
+      "Luc22:31-32"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Aconselhar",
+    "definition": "Oferecer sabedoria com escuta, cuidado e consciência dos próprios limites.",
+    "practice": "Ouvir o contexto antes de oferecer uma resposta.",
+    "terms": [
+      "conselho",
+      "conselhe",
+      "admoesta",
+      "sabedoria"
+    ],
+    "references": [
+      "Pro15:22",
+      "Pro20:5",
+      "Pro27:9",
+      "Rom15:14",
+      "Col3:16",
+      "Pro19:20",
+      "Thi1:5",
+      "Pro18:13",
+      "Isa9:6"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Discipular",
+    "definition": "Acompanhar o aprendizado de seguir Jesus, unindo ensino, exemplo e prática.",
+    "practice": "Caminhar com alguém em uma prática de fé possível e revisável.",
+    "terms": [
+      "discipul",
+      "segue",
+      "aprende",
+      "imita"
+    ],
+    "references": [
+      "Mat28:19-20",
+      "Luc9:23",
+      "Joao8:31-32",
+      "Joao13:34-35",
+      "IITim2:2",
+      "Mar3:14",
+      "ICor11:1",
+      "Joao15:8"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Restaurar quem se desviou",
+    "definition": "Buscar quem se afastou com mansidão, verdade e compromisso com sua dignidade.",
+    "practice": "Procurar uma pessoa afastada para ouvir e acolher, sem pressioná-la.",
+    "terms": [
+      "restaura",
+      "desvi",
+      "converte",
+      "perdida"
+    ],
+    "references": [
+      "Gal6:1",
+      "Thi5:19-20",
+      "Luc15:3-7",
+      "Luc15:11-24",
+      "IICor2:6-8",
+      "Jud1:22-23",
+      "Eze34:15-16",
+      "Psa51:10-12"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Amar os inimigos",
+    "definition": "Desejar e praticar o bem mesmo diante da hostilidade, sem chamar o mal de bem.",
+    "practice": "Orar por alguém com quem está em conflito e evitar a retaliação.",
+    "terms": [
+      "inimigo",
+      "aborrece",
+      "persegue",
+      "odiai"
+    ],
+    "references": [
+      "Mat5:43-48",
+      "Luc6:27-36",
+      "Rom12:17-21",
+      "Pro25:21-22",
+      "Exo23:4-5",
+      "Luc23:34",
+      "Act7:59-60",
+      "IPed3:9"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Perdoar quem nos faz mal",
+    "definition": "Renunciar à vingança e lidar com o mal recebido sem reproduzi-lo.",
+    "practice": "Escolher uma resposta que não repita a agressão recebida.",
+    "terms": [
+      "perdoa",
+      "perdão",
+      "vinga",
+      "perdoai",
+      "ofensa"
+    ],
+    "references": [
+      "Mat6:14-15",
+      "Mat18:21-35",
+      "Luc23:34",
+      "Eph4:31-32",
+      "Col3:13",
+      "Rom12:19",
+      "Gen50:15-21",
+      "Act7:60"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ajudar quem nos rejeita",
+    "definition": "Fazer o bem sem exigir aceitação ou reciprocidade.",
+    "practice": "Ajudar de forma segura alguém que não pode ou não quer retribuir.",
+    "terms": [
+      "inimigo",
+      "aborrece",
+      "fazei bem",
+      "rejeita"
+    ],
+    "references": [
+      "Luc6:27-35",
+      "Rom12:20-21",
+      "Pro25:21",
+      "Exo23:4-5",
+      "Mat5:44-45",
+      "IReis13:4-6",
+      "IIPed1:7"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Compartilhar mesmo tendo pouco",
+    "definition": "Repartir segundo as possibilidades, com liberdade e responsabilidade.",
+    "practice": "Compartilhar algo possível sem abandonar as necessidades essenciais da própria casa.",
+    "terms": [
+      "repart",
+      "liberal",
+      "dádiva",
+      "pouco",
+      "pobres"
+    ],
+    "references": [
+      "Mar12:41-44",
+      "IICor8:1-5",
+      "IICor8:12-15",
+      "IReis17:8-16",
+      "Luc3:11",
+      "Joao6:8-13",
+      "Act11:29",
+      "ITim5:8"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Defender os vulneráveis",
+    "definition": "Usar voz, recursos e posição para proteger quem sofre injustiça.",
+    "practice": "Apoiar uma pessoa em situação de vulnerabilidade em uma necessidade concreta.",
+    "terms": [
+      "pobre",
+      "afflicto",
+      "orph",
+      "opprim",
+      "defende"
+    ],
+    "references": [
+      "Pro31:8-9",
+      "Psa82:3-4",
+      "Isa1:17",
+      "Jer22:3",
+      "Zac7:9-10",
+      "Deu24:17",
+      "Psa146:7-9",
+      "Pro14:31"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Sacrificar o próprio conforto",
+    "definition": "Aceitar um custo pessoal para servir ao próximo, sem confundir amor com autodestruição.",
+    "practice": "Abrir mão de uma conveniência para atender uma necessidade real.",
+    "terms": [
+      "sacrifício",
+      "renuncia",
+      "servir",
+      "negue-se",
+      "entregar"
+    ],
+    "references": [
+      "IPhi2:3-8",
+      "Luc9:23",
+      "IICor8:9",
+      "IJoao3:16-18",
+      "Rom15:1-3",
+      "Heb13:16",
+      "Joao13:14-15",
+      "Mar10:45"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dar a vida pelo próximo",
+    "definition": "Compreender o amor sacrificial de Cristo e traduzir o cuidado em entrega responsável.",
+    "practice": "Proteger e sustentar a vida de alguém por meio de uma ação concreta de cuidado.",
+    "terms": [
+      "dar a vida",
+      "deu a vida",
+      "põe a sua vida",
+      "pelos irmãos",
+      "entregou"
+    ],
+    "references": [
+      "Joao15:12-13",
+      "IJoao3:16",
+      "Joao10:11-18",
+      "Rom5:6-8",
+      "Mar10:45",
+      "Act20:24",
+      "IPhi2:25-30",
+      "Eph5:1-2"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Amor",
+    "definition": "Amar a Deus e ao próximo em ações verdadeiras, segundo o exemplo de Cristo.",
+    "practice": "Escolher o bem de outra pessoa em uma situação concreta.",
+    "terms": [
+      "amor",
+      "caridade",
+      "ama",
+      "amar",
+      "ameis"
+    ],
+    "references": [
+      "ICor13:1-13",
+      "IJoao4:7-21",
+      "Joao13:34-35",
+      "Mat22:37-40",
+      "Rom13:8-10",
+      "Rom5:5",
+      "Gal5:22-23",
+      "Joao15:9-13",
+      "Col3:14",
+      "IJoao3:16-18"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Gozo (alegria)",
+    "definition": "Receber de Deus uma alegria que pode coexistir com lágrimas e perseverança.",
+    "practice": "Reconhecer um sinal de graça sem negar uma dificuldade real.",
+    "terms": [
+      "alegria",
+      "alegra",
+      "gozo",
+      "regozij"
+    ],
+    "references": [
+      "IPhi4:4",
+      "Joao15:11",
+      "Rom15:13",
+      "Neh8:10",
+      "Psa16:11",
+      "Hab3:17-18",
+      "IThe5:16",
+      "Thi1:2-4",
+      "Gal5:22",
+      "IPed1:6-9"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Paz",
+    "definition": "Buscar em Deus reconciliação, confiança e relações conduzidas com mansidão.",
+    "practice": "Dar uma resposta que diminua um conflito sem esconder a verdade.",
+    "terms": [
+      "paz",
+      "pacifica",
+      "quietude",
+      "socego"
+    ],
+    "references": [
+      "Joao14:27",
+      "IPhi4:6-9",
+      "Rom5:1",
+      "Rom12:18",
+      "Isa26:3",
+      "Col3:15",
+      "Mat5:9",
+      "Rom14:19",
+      "Gal5:22",
+      "IThe5:13"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Longanimidade (paciência)",
+    "definition": "Suportar a demora e as falhas do outro sem desistir facilmente do bem.",
+    "practice": "Responder a uma repetição difícil com firmeza e calma.",
+    "terms": [
+      "longanim",
+      "pacien",
+      "tardio em ir",
+      "espera"
+    ],
+    "references": [
+      "Gal5:22",
+      "Eph4:1-3",
+      "Col3:12-13",
+      "Rom2:4",
+      "IITim4:2",
+      "IIPed3:9",
+      "Exo34:6",
+      "ICor13:4",
+      "Thi5:7-11"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Benignidade (amabilidade)",
+    "definition": "Tratar as pessoas com gentileza que expressa o cuidado de Deus.",
+    "practice": "Usar palavras e um gesto de acolhimento com alguém que está sob pressão.",
+    "terms": [
+      "benign",
+      "amavel",
+      "brandura",
+      "beneficencia"
+    ],
+    "references": [
+      "Gal5:22",
+      "Eph4:32",
+      "Col3:12",
+      "Rom2:4",
+      "Tito3:4-5",
+      "Luc6:35",
+      "Pro15:1",
+      "IICor6:6",
+      "Psa63:3"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Bondade",
+    "definition": "Permitir que a bondade de Deus se expresse em caráter e ações úteis ao próximo.",
+    "practice": "Praticar um bem que está ao seu alcance, com perseverança.",
+    "terms": [
+      "bondade",
+      "benignidade",
+      "beneficência",
+      "bom",
+      "boa",
+      "bons",
+      "boas",
+      "fazer o bem"
+    ],
+    "references": [
+      "Gal5:22",
+      "Eph5:8-10",
+      "Rom15:14",
+      "IIThe1:11",
+      "Psa23:6",
+      "Psa34:8",
+      "Psa100:5",
+      "Exo34:6-7",
+      "Psa119:68",
+      "Psa145:9",
+      "Nah1:7",
+      "Rom2:4",
+      "Tito3:4-7",
+      "Luc6:35",
+      "Gal6:9-10",
+      "IIIJoao1:11"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Fé (fidelidade)",
+    "definition": "Confiar em Deus e cultivar uma vida leal, coerente e perseverante diante dele.",
+    "practice": "Cumprir com integridade uma responsabilidade que lhe foi confiada.",
+    "terms": [
+      "fé",
+      "fiel",
+      "fidelidade",
+      "confia"
+    ],
+    "references": [
+      "Gal5:22",
+      "Heb11:1-6",
+      "Hab2:4",
+      "IICor5:7",
+      "ICor4:2",
+      "Luc16:10",
+      "Lam3:22-23",
+      "IITim2:13",
+      "Apo2:10",
+      "Thi2:14-18"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Mansidão",
+    "definition": "Responder com força governada pelo amor, sem violência nem arrogância.",
+    "practice": "Falar a verdade com um tom que preserve a dignidade do outro.",
+    "terms": [
+      "mans",
+      "brandura",
+      "humild",
+      "meigo"
+    ],
+    "references": [
+      "Gal5:22-23",
+      "Mat11:28-30",
+      "Mat5:5",
+      "Gal6:1",
+      "IITim2:24-25",
+      "IPed3:15-16",
+      "Tito3:2",
+      "Pro15:1",
+      "Thi3:13"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Temperança (domínio próprio)",
+    "definition": "Governar impulsos e desejos com discernimento, para agir segundo os valores escolhidos.",
+    "practice": "Perceber um impulso e fazer uma pausa antes de agir.",
+    "terms": [
+      "temperança",
+      "domínio",
+      "modera",
+      "sobri",
+      "refreia"
+    ],
+    "references": [
+      "Gal5:22-23",
+      "Pro25:28",
+      "Pro16:32",
+      "ICor9:24-27",
+      "IIPed1:5-8",
+      "Tito2:11-12",
+      "IITim1:7",
+      "Thi1:19-20",
+      "IPed4:7"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Amor sofredor (paciente)",
+    "definition": "Amar com paciência e perseverança, sem transformar sofrimento em obrigação de aceitar abuso.",
+    "practice": "Esperar uma conversa possível e manter limites respeitosos.",
+    "terms": [
+      "caridade",
+      "pacien",
+      "longanim",
+      "sofre"
+    ],
+    "references": [
+      "ICor13:4-7",
+      "Eph4:2",
+      "Col3:12-13",
+      "Rom12:12",
+      "Thi5:7-11",
+      "IPed4:8",
+      "Rom15:5"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Benignidade",
+    "definition": "Expressar bondade no modo de falar, acolher e agir.",
+    "practice": "Tratar com gentileza uma pessoa em um momento difícil.",
+    "terms": [
+      "benign",
+      "beneficencia",
+      "amavel",
+      "brandura"
+    ],
+    "references": [
+      "ICor13:4",
+      "Eph4:32",
+      "Col3:12",
+      "Tito3:4",
+      "Luc6:35",
+      "Rom2:4",
+      "IICor6:6",
+      "Pro31:26"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Não ter inveja",
+    "definition": "Alegrar-se com o bem do outro sem transformar a comparação em rivalidade.",
+    "practice": "Reconhecer sinceramente uma conquista de outra pessoa.",
+    "terms": [
+      "inveja",
+      "ciume",
+      "emulacao"
+    ],
+    "references": [
+      "ICor13:4",
+      "Pro14:30",
+      "Thi3:14-16",
+      "Gal5:26",
+      "IPed2:1",
+      "Rom12:15",
+      "Psa37:1",
+      "ICor3:3"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Não tratar com leviandade",
+    "definition": "Abandonar a ostentação e a necessidade de se exibir diante dos outros.",
+    "practice": "Compartilhar algo sem usar a fala para se engrandecer.",
+    "terms": [
+      "vanglória",
+      "ostenta",
+      "jacta",
+      "vanta",
+      "leviandade",
+      "glorie"
+    ],
+    "references": [
+      "ICor13:4",
+      "Pro27:2",
+      "IPhi2:3",
+      "ICor4:7",
+      "IICor10:17-18",
+      "Jer9:23-24",
+      "Thi4:16",
+      "Rom12:3"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Não se ensoberbecer",
+    "definition": "Reconhecer o valor do outro e rejeitar a arrogância.",
+    "practice": "Considerar seriamente uma contribuição de alguém que costuma ignorar.",
+    "terms": [
+      "soberb",
+      "ensober",
+      "altiv",
+      "incha",
+      "orgulh"
+    ],
+    "references": [
+      "ICor13:4",
+      "Pro16:18",
+      "Thi4:6",
+      "IPed5:5",
+      "Luc18:9-14",
+      "Rom12:16",
+      "ICor8:1",
+      "IPhi2:3"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Não agir com indecência",
+    "definition": "Tratar o outro com respeito, decoro e cuidado, evitando condutas que humilham.",
+    "practice": "Rever uma fala ou comportamento que possa desrespeitar alguém.",
+    "terms": [
+      "indecen",
+      "deshon",
+      "torpe",
+      "decencia",
+      "honest"
+    ],
+    "references": [
+      "ICor13:5",
+      "ICor14:40",
+      "Eph4:29",
+      "Eph5:3-4",
+      "Col4:6",
+      "Rom13:13",
+      "IThe4:3-5",
+      "IPed2:12"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Não buscar os próprios interesses",
+    "definition": "Considerar as necessidades do próximo e resistir ao egoísmo.",
+    "practice": "Escolher uma solução que leve em conta quem será afetado.",
+    "terms": [
+      "seus interesses",
+      "próprios interesses",
+      "proveito",
+      "bem do próximo",
+      "proprio"
+    ],
+    "references": [
+      "ICor13:5",
+      "IPhi2:3-4",
+      "ICor10:24",
+      "ICor10:33",
+      "Rom15:1-3",
+      "Mar10:43-45",
+      "Gal5:13",
+      "Luc10:27"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Não se irritar facilmente",
+    "definition": "Reconhecer a ira e governar a resposta sem explodir ou alimentar ressentimento.",
+    "practice": "Pausar uma discussão e retomá-la quando puder falar com respeito.",
+    "terms": [
+      "irrita",
+      "ira",
+      "irado",
+      "furor",
+      "colera"
+    ],
+    "references": [
+      "ICor13:5",
+      "Thi1:19-20",
+      "Pro14:29",
+      "Pro15:1",
+      "Eph4:26-27",
+      "Pro16:32",
+      "Ecc7:9",
+      "Col3:8"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Não suspeitar mal",
+    "definition": "Evitar imputar más intenções sem fundamento e alimentar uma contabilidade de ofensas.",
+    "practice": "Confirmar os fatos antes de julgar a intenção de alguém.",
+    "terms": [
+      "suspeita",
+      "julga",
+      "vinga",
+      "offensa",
+      "intenção"
+    ],
+    "references": [
+      "ICor13:5",
+      "Zac8:17",
+      "Mat7:1-5",
+      "Rom12:17-19",
+      "Pro18:17",
+      "Lev19:18",
+      "Eph4:31-32",
+      "Pro25:9"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Não se alegrar com a injustiça",
+    "definition": "Recusar o prazer no mal e no sofrimento de outras pessoas.",
+    "practice": "Não compartilhar uma humilhação ou comemorar a queda de alguém.",
+    "terms": [
+      "injust",
+      "iniquidade",
+      "impiedade",
+      "alegrar do mal"
+    ],
+    "references": [
+      "ICor13:6",
+      "Pro24:17-18",
+      "Rom12:9",
+      "Psa15:1-3",
+      "Isa5:20",
+      "Amos5:15",
+      "Oba1:12",
+      "Eph5:11"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alegrar-se com a verdade",
+    "definition": "Acolher a verdade e praticá-la com amor, mesmo quando exige correção pessoal.",
+    "practice": "Reconhecer uma verdade desconfortável e agir com honestidade.",
+    "terms": [
+      "verdade",
+      "verdadeir",
+      "folga",
+      "regozij"
+    ],
+    "references": [
+      "ICor13:6",
+      "IIIJoao1:3-4",
+      "Joao8:31-32",
+      "Eph4:15",
+      "Zac8:16",
+      "Psa51:6",
+      "Joao17:17",
+      "IPhi4:8"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Tudo sofrer",
+    "definition": "Permanecer no amor em meio às dificuldades, sem encobrir violência ou negar a justiça.",
+    "practice": "Oferecer apoio diante de uma dificuldade sem abandonar limites saudáveis.",
+    "terms": [
+      "soffre",
+      "supporta",
+      "suporta",
+      "persever"
+    ],
+    "references": [
+      "ICor13:7",
+      "Gal6:2",
+      "Rom15:1",
+      "Eph4:2",
+      "IPed4:8",
+      "Col3:13",
+      "IICor4:8-9",
+      "IPed2:19-23"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Tudo crer",
+    "definition": "Cultivar confiança e boa-fé com discernimento, sem acreditar em toda afirmação ou ocultar evidências.",
+    "practice": "Dar espaço à confiança e verificar com cuidado o que precisa ser confirmado.",
+    "terms": [
+      "crê",
+      "crer",
+      "confia",
+      "fé",
+      "prova",
+      "discern"
+    ],
+    "references": [
+      "ICor13:7",
+      "IJoao4:1",
+      "IThe5:21",
+      "Pro14:15",
+      "Joao20:24-29",
+      "Rom4:18-21",
+      "Heb11:1",
+      "Act17:11"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Tudo esperar",
+    "definition": "Perseverar em esperança diante de Deus, sem prometer um resultado que não foi revelado.",
+    "practice": "Apresentar a Deus uma espera e escolher uma atitude possível no presente.",
+    "terms": [
+      "espera",
+      "esperanca",
+      "aguarda",
+      "confia"
+    ],
+    "references": [
+      "ICor13:7",
+      "Rom8:24-25",
+      "Rom15:13",
+      "Psa42:11",
+      "Lam3:21-26",
+      "Heb10:23",
+      "Psa130:5-6",
+      "Isa40:31"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Tudo suportar",
+    "definition": "Perseverar no bem com firmeza, buscando ajuda e proteção quando necessário.",
+    "practice": "Continuar uma atitude boa possível e reconhecer onde precisa de apoio.",
+    "terms": [
+      "supporta",
+      "suporta",
+      "persever",
+      "pacien",
+      "constan"
+    ],
+    "references": [
+      "ICor13:7",
+      "Thi1:12",
+      "Rom5:3-5",
+      "Heb12:1-3",
+      "Gal6:9",
+      "IIThe3:13",
+      "IITim2:10-12",
+      "Apo2:3"
+    ]
+  }
+]

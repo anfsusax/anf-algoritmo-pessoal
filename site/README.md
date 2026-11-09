@@ -68,3 +68,7 @@ O funcionamento local continua lendo a memória completa de `_ia/` com `npm run 
 As fontes públicas são mantidas separadamente: alterações na memória privada não as publicam automaticamente. Atualize `content/public/` deliberadamente ao mudar o conteúdo da versão hospedada. Caderno e horários continuam específicos do navegador e da origem; anotações do endereço local não aparecem automaticamente no domínio Vercel.
 
 A configuração foi preparada e o build testado localmente. A criação do projeto e o deploy na Vercel são etapas separadas. Envie os arquivos alterados ao GitHub antes de iniciar a compilação remota.
+
+## Estudos bíblicos dos frutos
+
+Abra qualquer fruto para ler passagens comentadas, expandir o contexto e consultar a concordância. A pesquisa bíblica usa a edição Almeida de 1911 do Project Gutenberg. O [acervo bíblico](content/bible/README.md) documenta a fonte, os critérios de pesquisa e como acrescentar leituras. A versão local e a hospedada usam o mesmo acervo estático.
